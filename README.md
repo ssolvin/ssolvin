@@ -1,4 +1,14 @@
-### Hi there 👋
+# About Me 👋
+**Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a 1st year CS student at UC Irivne! 🐜🍴**
+
+- 📍 Anaheim, California
+
+## Currently Learning 🌱
+- 🐍 Python
+
+## Contact Me 📱
+- [LinkedIn](https://www.linkedin.com/in/ssolvin/)
+              
 
 <!--
 **ssolvin/ssolvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
