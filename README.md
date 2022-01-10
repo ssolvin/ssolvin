@@ -8,7 +8,7 @@
 - 🐍 Python
 - ☕ Java
  
-## Plans to Learn 📖
+## Plan to Learn 📖
 - iOS development (Objective C/Swift)
 - React
 
