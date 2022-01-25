@@ -3,8 +3,9 @@
 
 - 📍 Los Angeles Metropolitan Area, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
+- 🥁 Fun Fact: I love playing the drumset!
 
-## Currently Learning 🌱
+##🥁🥁🥁🥁🥁🥁🥁🥁🪘🪘🥁🥁 Currently Learning 🌱
 - 🐍 Python
 - ☕ Java
  
