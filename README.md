@@ -2,13 +2,13 @@
 **Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a 1st year CS student at UC Irivne! 🐜🍴**
 
 - 📍 Los Angeles Metropolitan Area, California
-- 🥟 Favorite Food: momos
+- 🥟 Favorite Food: momos (Nepalese dumplings!)
 
 ## Currently Learning 🌱
 - 🐍 Python
 - ☕ Java
  
-## Plan to Learn 📖
+## Plans 📖
 - iOS development (Objective C/Swift)
 - React
 
