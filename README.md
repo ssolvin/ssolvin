@@ -1,17 +1,14 @@
 ## About Me 👋
-**Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a 1st year CS student at UC Irivne! 🐜🍴**
+**Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a 2nd year CS student at UC Irivne! 🐜🍴**
 
 - 📍 Los Angeles Metropolitan Area, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
-- 🥁 Fun Fact: I love playing the drums!
+- 🥁 Fun Fact: I love playing the guitar!
 
-## Currently Learning 🌱
-- 🐍 Python
-- ☕ Java
  
 ## Plans 📖
 - iOS development (Objective C/Swift)
-- React
+- R
 
 ## Contact Me 📱
 - [Email](shresthasolvin@gmail.com)
