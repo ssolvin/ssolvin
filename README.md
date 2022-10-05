@@ -7,7 +7,8 @@
 
  
 ## Plans 📖
-- iOS development (Objective C/Swift)
+- C++
+- iOS app development (Objective C/Swift)
 - R
 
 ## Contact Me 📱
