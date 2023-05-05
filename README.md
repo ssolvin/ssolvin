@@ -3,7 +3,6 @@
 
 - 📍 Irvine, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
-- 🎸 Fun Fact: I love playing the guitar!
 
 ## Contact Me 📱
 - [Email](solvins@uci.edu)
