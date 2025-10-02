@@ -1,5 +1,5 @@
 ## About Me 👋
-**Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a 4th year SWE student at UC Irivne! 🐜🍴**
+**Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a UCI new graduate! 🐜🍴**
 
 - 📍 Irvine, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
