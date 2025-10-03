@@ -5,6 +5,6 @@
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
 
 ## Contact Me 📱
-- [Email](solvins@uci.edu)
+- [Email](mailto:solvins@uci.edu)
 - [LinkedIn](https://www.linkedin.com/in/ssolvin/)
 - [Spotify](https://open.spotify.com/user/q8a6e672pdb24kyftxn2lo9qn)
