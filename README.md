@@ -1,5 +1,5 @@
 ## About Me 👋
-**Hi, I'm Solvin Shrestha (yes, I solve problems) and I'm currently a UCI new graduate! 🐜🍴**
+**Hi, I'm Solvin Shrestha (yes, I solve problems) and I am a UCI alumni nearly full-stack roles! 🐜🍴**
 
 - 📍 Irvine, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
