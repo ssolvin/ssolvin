@@ -1,5 +1,5 @@
 ## About Me 👋
-**Hi, I'm Solvin Shrestha (yes, I solve problems) and I am a UCI alumni seeking full-stack and backend development roles! 🐜🍴**
+**Hi, I'm Solvin and I'm a UCI alumni seeking full-stack and backend development roles! 🐜🍴**
 
 - 📍 Irvine, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
