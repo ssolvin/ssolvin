@@ -3,6 +3,7 @@
 
 - 📍 Irvine, California
 - 🥟 Favorite Food: momos (Nepalese dumplings!)
+- ⛰️ Currently picking up the electric guitar and exploring more trails!
 
 ## Contact Me 📱
 - [Email](mailto:solvins@uci.edu)
