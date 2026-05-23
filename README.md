@@ -6,6 +6,6 @@
 - ⛰️ Currently picking up the electric guitar and exploring more trails!
 
 ## Contact Me 📱
-- [Email](mailto:solvins@uci.edu)
+- [Email](mailto:solvinshr@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ssolvin/)
 - [Spotify](https://open.spotify.com/user/q8a6e672pdb24kyftxn2lo9qn)
